@@ -62,11 +62,11 @@ The analysis was conducted through a series of SQL queries to extract insights. 
 
    
  ## Category Trends:
- *Insights into category-wise and type-wise sales performance.
+ * Insights into category-wise and type-wise sales performance.
  
  ## Operational Insights:
- *Highlighted high-demand hours for optimizing operations.
- *Recommended focus areas for improvement in product mix.
+ * Highlighted high-demand hours for optimizing operations.
+ * Recommended focus areas for improvement in product mix.
 
  
 ## This project showcases the effectiveness of SQL in analyzing business data, enabling data-driven decisions to enhance performance and growth.
