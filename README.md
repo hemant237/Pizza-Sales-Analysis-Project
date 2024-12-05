@@ -48,11 +48,11 @@ The analysis was conducted through a series of SQL queries to extract insights. 
 
  * Identified the top 3 most-ordered pizza types based on revenue.
  * Listed the top 5 most popular pizzas by quantity.
- * 
+
 ## Customer Preferences:
  * Most common pizza size ordered.
  * Peak order times during the day.
- * 
+
 ## Revenue Contribution:
  * Calculated revenue percentages for each pizza type.
  * Determined cumulative revenue growth trends.
