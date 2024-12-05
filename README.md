@@ -23,32 +23,32 @@ The database schema comprises interconnected tables, including Orders, Customers
 ### **3. Approach**
 The analysis was conducted through a series of SQL queries to extract insights. Key steps included:
 
-  # 1.Total Orders: Retrieving the total number of orders placed.
+   1.Total Orders: Retrieving the total number of orders placed.
   
-  # 2.Revenue: Calculating the total revenue generated from pizza sales.
+   2.Revenue: Calculating the total revenue generated from pizza sales.
   
-  # 3.Product Insights:
-   *Identifying the highest-priced pizza.
-   *Determining the most common pizza size ordered.
-   *Listing the top 5 most ordered pizza types along with their quantities.
+   3.Product Insights:
+    *Identifying the highest-priced pizza.
+    *Determining the most common pizza size ordered.
+    *Listing the top 5 most ordered pizza types along with their quantities.
 
-## 4.Category Insights:
-   *Joining tables to find category-wise distribution of pizzas.
-   *Determining the top 3 most ordered pizza types based on revenue for each pizza category.
+   4.Category Insights:
+    *Joining tables to find category-wise distribution of pizzas.
+    *Determining the top 3 most ordered pizza types based on revenue for each pizza category.
 
  
-## 5.Temporal Trends:
-  *Grouping orders by hour of the day.
-  *Calculating the average number of pizzas ordered per day.
+   5.Temporal Trends:
+    *Grouping orders by hour of the day.
+    *Calculating the average number of pizzas ordered per day.
   
-## 6.Revenue Contribution: Calculating the percentage contribution of each pizza type to total revenue.
+   6.Revenue Contribution: Calculating the percentage contribution of each pizza type to total revenue.
 
-## 7.Growth Analysis: Analyzing cumulative revenue generated over time.
+   7.Growth Analysis: Analyzing cumulative revenue generated over time.
 
  
-### 4. Key Insights:
+### **4.Key Insights:** 
+
  ## Top Performers:
-
  * Identified the top 3 most-ordered pizza types based on revenue.
  * Listed the top 5 most popular pizzas by quantity.
 
@@ -61,7 +61,7 @@ The analysis was conducted through a series of SQL queries to extract insights. 
  * Determined cumulative revenue growth trends.
 
    
- ## **Category Trends:**
+ ## Category Trends:
  *Insights into category-wise and type-wise sales performance.
  
  ## Operational Insights:
